@@ -8,8 +8,8 @@ To create an assistive device that helps people with speech or hearing disabilit
 
 ## Components
 - Arduino Uno
-- 5 Flex Sensors (one for each finger)
-- MPU6050 Sensor
+- 10 Flex Sensors (one for each finger)
+-  2 MPU6050 Sensor
 - 16x2 LCD Display
 - Jumper Wires
 - Power Source (battery or USB)
