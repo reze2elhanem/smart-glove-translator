@@ -20,3 +20,14 @@ At first, I tried using AI to design a 3D prototype so I could visualize my conc
 
 It was a mix of frustration and excitement, but by the end of the day, I finally managed to put the concept together in a clear way and start writing my project description. I feel like the idea is becoming more real step by step.  
 
+## 10/19/2025 - Learning the basics of sign language   
+
+Today was such an exciting day! I started learning the basics of Egyptian Arabic sign language  I focused on about ten simple words, trying to understand each hand movement and the angle behind it. It honestly felt magical to see how much meaning can be expressed just by a few gestures.
+
+Then, I moved on to the coding part. I managed to write the initial code for two words  “hi” and “how are you”  in arabic (egyptian accent) ![WhatsApp Image 2025-10-19 at 5.44.02 PM.jpeg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzM3NywicHVyIjoiYmxvYl9pZCJ9fQ==--271b1f7f26dc60cc6e2e695b1d7816966a4e4c80/WhatsApp%20Image%202025-10-19%20at%205.44.02%20PM.jpeg)
+since they’re usually the start of any conversation. Seeing the LCD display respond the right way gave me such a good feeling it was like the project finally started breathing a little
+
+LaterI spent some time brainstorming future features I’d love to add
+One idea I really like is adding a small mic that could actually say the translated words out loud. Another idea is to make the glove smart enough to “learn” new gestures automatically without needing to code each one manually
+It’s just day two, but I can already imagine how far this could go   
+
