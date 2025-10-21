@@ -6,10 +6,6 @@
   ==================================================================
 -->
 
-This is my journal of the design and building process of **Smart  Translator Gloves**.  
-You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/693).
-
-
 ## 10/18/2025 - Brainstormed, designed  prototype, and refined project idea  
 
 Today, I spent![ Image 18 أكتوبر 2025، 02_29_12 م.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzA4NSwicHVyIjoiYmxvYl9pZCJ9fQ==--9860dae6e8a1b2700b77f9d282a461c6378be015/ChatGPT%20Image%2018%20%D8%A3%D9%83%D8%AA%D9%88%D8%A8%D8%B1%202025%D8%8C%2002_29_12%20%D9%85.png)
@@ -30,4 +26,9 @@ since they’re usually the start of any conversation. Seeing the LCD display re
 LaterI spent some time brainstorming future features I’d love to add
 One idea I really like is adding a small mic that could actually say the translated words out loud. Another idea is to make the glove smart enough to “learn” new gestures automatically without needing to code each one manually
 It’s just day two, but I can already imagine how far this could go   
+
+## 10/21/2025 - Big Coding Progress Day  
+
+Today I worked on a big part of the code! I managed to program around 10 words like help, sorry, goodbye, and more. It wasn’t easy at all ![IMG_20251021_144550.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDA5MywicHVyIjoiYmxvYl9pZCJ9fQ==--5dd156d3834561f54c5b03ea5611598bd1ab7d83/IMG_20251021_144550.jpg)
+ I faced a lot of challenges, especially since I still don’t have the components to test anything yet. But I’m still going, and I won’t stop until I reach the final version of my project!  
 
