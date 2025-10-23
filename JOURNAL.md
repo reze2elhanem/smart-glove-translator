@@ -32,3 +32,10 @@ It’s just day two, but I can already imagine how far this could go
 Today I worked on a big part of the code! I managed to program around 10 words like help, sorry, goodbye, and more. It wasn’t easy at all ![IMG_20251021_144550.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDA5MywicHVyIjoiYmxvYl9pZCJ9fQ==--5dd156d3834561f54c5b03ea5611598bd1ab7d83/IMG_20251021_144550.jpg)
  I faced a lot of challenges, especially since I still don’t have the components to test anything yet. But I’m still going, and I won’t stop until I reach the final version of my project!  
 
+## 10/23/2025 - 3d model  
+
+Today I worked on the 3D model. It honestly wasn’t easy at all since I’m still a total beginner at 3D design, but I followed a bunch of YouTube tutorials and slowly started to figure things out. I couldn’t get everything perfect  there are still a lot of parts I couldn’t adjust properly ![p1.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDc0NywicHVyIjoiYmxvYl9pZCJ9fQ==--517bd5baa5c271d34bc7085a3ac4469776c473cf/p1.png)
+ but overall I’m happy with how it turned out.
+
+I also worked on my README file today! I rewrote it completely in my own words and made it sound more like me.  
+
